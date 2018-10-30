@@ -1,5 +1,5 @@
 # Database-Technologies
-A core graduate course in database design and implementation. <br>
+<b>csc453</b>: A core graduate course in database design and implementation. <br>
 Topics include database implementation and queries in SQL, logical design or relational databases,<br>
 storage and indexes, database programming, and emerging database models.<br>
 
